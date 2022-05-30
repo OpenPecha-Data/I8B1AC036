@@ -1,0 +1,26 @@
+id: I8B1AC036
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T05:28:35.143450'
+last_modified: '2022-05-31T05:28:35.143463'
+parser: null
+source_metadata:
+  title: Namkha Drimed Rinpoche Series
+  language: en
+  description: 'Texts by and about Namkha Drimed Rabjam Rinpoche (nam mkha'' dri med
+    rab ''byams rin po che, b. 1938), the modern tertön renowned for his connection
+    with King Gesar:'
+  volume:
+    fD484:
+      title: A Prayer for the Swift Rebirth of Tenpai Nyima Rinpoche
+      base_file: fD484.txt
+      order: 1
+      parent: Swift Rebirth Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
